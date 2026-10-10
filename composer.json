@@ -1,0 +1,13 @@
+{
+    "require": {
+        "maxmind-db/reader": "^1.14",
+        "openai-php/client": "^0.21.0",
+        "symfony/http-client": "^8.1",
+        "nyholm/psr7": "^1.8"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
